@@ -1,12 +1,14 @@
 h3 {
   font-size: 80px;
   font-style: oblique;
-  background-color: brown;
+  background-color: grey;
   
 
-  }
+}
   body {
-    background-color: grey;
+    background-color: pink;
+
+
 
 }
 .links-color {
@@ -23,9 +25,11 @@ img {
   height:400px;
 
 
+
 }
 
 #list{
   list-style-type: none;
   font-size: 20px;
+
 }
