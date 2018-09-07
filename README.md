@@ -5,7 +5,7 @@ Joy Vivika Mumo
 The project was created as a landing-page for my portfilio.
 ### Project Set-Up Instructions
 1.gfckhc kihcikdsh  vcikldhckidshv
-2khnfsdlknfihlihvlsjv;ldjvlirjv;dfj 
+2.khnfsdlknfihlihvlsjv;ldjvlirjv;dfj 
 3.jdgv jfgvk dhvkdh kdfvhldnv
 4.jhckdg jdsvcjkds mbjkd
 5.kjdghk  shfskncshkvk dsvbjkdkv
