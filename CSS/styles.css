@@ -1,31 +1,40 @@
 h3 {
-  font-size: 80px;
+  font-size: 90px;
   font-style: oblique;
-  background-color: brown;
+  background-image: url("/home/joy/Downloads/339_Aesthetics_2560x1440.jpg")
+
+
+
+
 
 
   }
   body {
     background-color: grey;
-    background-image: url("/home/joy/Downloads/324_Purplish-by-@AMutuma_2560x1440.jpg");
+    background-image: url("/home/joy/Downloads/339_Aesthetics_2560x1440.jpg")
+
+;
 
 
 
 
 }
 .links-color {
-  background-color: grey;
+
 
 }
 h2 {
-  font-size: 70px;
+  font-size: 60px;
   font-style: oblique;
+
 
 }
 img {
   width:400px;
   height:400px;
-  
+
+
+
 
 
 }
