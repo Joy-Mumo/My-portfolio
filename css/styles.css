@@ -1,0 +1,31 @@
+body{
+  background-color: darkslategrey;
+}
+.jumbotron{
+  background-color: slategray;
+}
+#style{
+    text-align: center;
+    width: 900px;
+
+    border:  10px solid black;
+    padding: 20px;
+    border-radius: 45px;
+    background-color: black;
+    color:darkslategray;
+    float: left;
+     
+}
+ul {
+  list-style: none;
+}
+#two{
+  width: 1000px;
+
+  border:  10px solid black;
+  padding: 60px;
+  border-radius: 45px;
+  background-color: black;
+  color:darkslategray;
+  
+}
