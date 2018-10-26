@@ -2,30 +2,30 @@ body{
   background-color: darkslategrey;
 }
 .jumbotron{
-  background-color: slategray;
+  background-color: darkslategray;
+  color: black;
 }
-#style{
+#dodo{
     text-align: center;
-    width: 900px;
-
+    width: 100%;
+    height:100%;
     border:  10px solid black;
     padding: 20px;
-    border-radius: 45px;
+    border-radius: 5px;
     background-color: black;
     color:darkslategray;
-    float: left;
      
 }
-ul {
-  list-style: none;
-}
-#two{
-  width: 1000px;
 
+#two{
+  width: 100%;
   border:  10px solid black;
   padding: 60px;
   border-radius: 45px;
   background-color: black;
   color:darkslategray;
   
+}
+#dodo {
+  text-align: center;
 }
